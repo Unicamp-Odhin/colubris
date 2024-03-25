@@ -4,6 +4,12 @@
 	(generator_version "8.0")
 	(uuid "bca12dcc-db41-46fb-a670-c1dba2c25ac2")
 	(paper "A4")
+	(title_block
+		(title "Estação Metereologica LoRaWAN")
+		(date "2024-03-24")
+		(rev "v1.0")
+		(company "Julio Nunes Avelar | Embarcações")
+	)
 	(lib_symbols
 		(symbol "Connector:Conn_01x02_Socket"
 			(pin_names
