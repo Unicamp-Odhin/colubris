@@ -1,0 +1,42 @@
+﻿pos_x,pos_y,rotation,side,designator,mpn,pack,value,mount_type,place
+106.0,-58.0,-90.0,bottom,C1,,C_1206_3216Metric,10uF,smt,True
+103.475,-68.0,0.0,bottom,C10,,C_1206_3216Metric,100nF,smt,True
+120.525,-102.0,0.0,top,C2,,C_1206_3216Metric,100nF,smt,True
+103.0,-58.0,-90.0,bottom,C3,,C_1206_3216Metric,100nF,smt,True
+113.0,-95.0,180.0,top,C4,,C_1206_3216Metric,100nF,smt,True
+116.0,-88.525,90.0,top,C5,,C_1206_3216Metric,100nF,smt,True
+104.0,-87.475,-90.0,top,C6,,C_1206_3216Metric,10uF,smt,True
+113.0,-58.0,90.0,bottom,C7,,C_1206_3216Metric,100nF,smt,True
+107.0,-87.475,-90.0,top,C8,,C_1206_3216Metric,10uF,smt,True
+109.0,-59.525,90.0,bottom,C9,,C_1206_3216Metric,100nF,smt,True
+119.0,-105.0,180.0,top,D1,,LED_1206_3216Metric,LED,smt,True
+119.0,-108.0,180.0,top,D2,,LED_1206_3216Metric,LED,smt,True
+94.0,-87.35,-90.0,top,D3,,D_SOD-123,1N5819,smt,True
+108.0,-80.0,180.0,bottom,IC1,,E22-900M22S,E22-900M22S,smt,True
+111.0,-114.0,90.0,top,J1,,PinHeader_1x02_P2.54mm_Vertical,Font Conector,tht,True
+122.0,-58.0,0.0,top,J10,,PinHeader_1x06_P2.54mm_Vertical,PGM,tht,True
+120.125,-114.8,0.0,top,J2,,USB_Micro-B_GCT_USB3076-30-A,USB_B_Micro,smt,True
+108.0,-95.0,180.0,top,J3,,PinHeader_1x02_P2.54mm_Vertical,Batery Conector,tht,True
+94.46,-98.0,0.0,top,J4,,PinHeader_2x04_P2.54mm_Vertical,I2C_Con,tht,True
+94.0,-57.0,0.0,top,J5,,PinSocket_1x10_P2.54mm_Vertical,ADC_DAC Pins,tht,True
+101.46,-98.0,0.0,top,J6,,PinHeader_2x04_P2.54mm_Vertical,I2C_Con,tht,True
+122.0,-84.0,180.0,top,J9,,PinHeader_1x04_P2.54mm_Vertical,Display_I2C,tht,True
+111.0,-100.0,0.0,top,Q1,,FS8205A,FS8205A,smt,True
+97.92,-94.0,0.0,top,Q2,,TO-220-3_Vertical,IRF4905,tht,True
+106.0,-114.0,180.0,top,R1,,R_1206_3216Metric,1.2k,smt,True
+106.0,-65.0,180.0,bottom,R10,,R_1206_3216Metric,15K,smt,True
+118.4625,-105.0,0.0,bottom,R2,,R_1206_3216Metric,1k,smt,True
+118.4625,-108.0,0.0,bottom,R3,,R_1206_3216Metric,1k,smt,True
+119.0,-92.4625,90.0,top,R4,,R_1206_3216Metric,1K,smt,True
+110.0,-87.4625,90.0,top,R5,,R_1206_3216Metric,15K,smt,True
+113.0,-87.4625,90.0,top,R6,,R_1206_3216Metric,15K,smt,True
+112.5375,-92.0,180.0,top,R7,,R_1206_3216Metric,100R,smt,True
+94.0,-93.0,90.0,top,R8,,R_1206_3216Metric,10K,smt,True
+112.0,-64.0,180.0,bottom,R9,,R_1206_3216Metric,15K,smt,True
+96.0,-110.0,0.0,top,SW1,,SW_Tactile_SPST_NO_Straight_CK_PTS636Sx25SMTRLFS,BTN1,smt,True
+96.0,-115.0,0.0,top,SW2,,SW_Tactile_SPST_NO_Straight_CK_PTS636Sx25SMTRLFS,BTN2,smt,True
+122.5,-91.875,90.0,top,SW3,,SW_Tactile_SPST_NO_Straight_CK_PTS636Sx25SMTRLFS,RESET,smt,True
+107.75,-67.15,0.0,top,U1,,ESP32-S2-WROOM,ESP32-S2-WROOM,smt,True
+111.095,-107.525,90.0,top,U2,,SOP127P600X175-9N,TP4056,smt,True
+118.745,-97.95,180.0,top,U3,,DW01A,DW01A,smt,True
+98.0,-87.0,180.0,top,U4,,SOT-89-3,HT7833-1-SOT89,smt,True
