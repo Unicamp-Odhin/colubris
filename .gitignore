@@ -5,3 +5,4 @@ venv/
 *.pyc
 build/
 */ebv/
+public/

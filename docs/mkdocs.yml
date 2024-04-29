@@ -43,7 +43,7 @@ extra:
     - icon: fontawesome/brands/instagram 
       link: https://instagram.com/embarcacoes.unicamp
     - icon: fontawesome/brands/gitlab 
-      link: https://gitlab.com/embarcacoes
+      link: https://gitlab.com/embarcacoes/estacao-metereologica-lorawan
     - icon: fontawesome/brands/telegram 
       link: https://t.me/+PdSj1sTUFSIyOGVh
     - icon: fontawesome/brands/youtube 
