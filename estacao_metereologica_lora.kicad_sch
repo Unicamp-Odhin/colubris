@@ -5,7 +5,7 @@
 	(uuid "bca12dcc-db41-46fb-a670-c1dba2c25ac2")
 	(paper "A4")
 	(title_block
-		(title "Estação Metereologica LoRaWAN")
+		(title "Estação Metereologica LoRaWAN | Colubris")
 		(date "2024-03-24")
 		(rev "v1.0")
 		(company "Julio Nunes Avelar | Embarcações")
