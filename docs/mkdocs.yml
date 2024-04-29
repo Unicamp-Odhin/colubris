@@ -3,6 +3,12 @@ docs_dir: src
 site_dir: ../public
 site_author: Julio Nunes Avelar
 site_description: Estação meteorológica LoRaWAN, baseada no microcontrolador ESP32S2 e no módulo LoRa SX1262.
+nav:
+  - Home: index.md
+  - Como construir: build.md
+  - Software: software.md
+  - Hardware: hardware.md
+  - Sobre: about.md
 theme:
   name: material
   language: pt-BR
