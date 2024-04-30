@@ -12,7 +12,7 @@ O nome _Colubris_ é uma homenagem ao beija-flor de pescoço vermelho, conhecido
 
 ## Desenvolvedor
 
-O circuito e a placa foram projetados por Júlio Nunes Avelar e estão disponíveis para uso livre sob as licenças listadas abaixo.
+O circuito e a placa foram projetados por Julio Nunes Avelar e estão disponíveis para uso livre sob as licenças listadas abaixo.
 
 ## Licenças
 
