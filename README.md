@@ -146,7 +146,7 @@ O projeto foi organizado dessa forma para facilitar o acesso a diferentes aspect
 
 ## Duvidas e Bugs:
 
-Em caso de alguma duvida, bug na aplicação ou sujestão, utilize o menu issues do [Gitlab](https://gitlab.com/embarcacoes/open-hardware-day-site/-/issues).
+Em caso de alguma duvida, bug na aplicação ou sujestão, utilize o menu issues do [Gitlab](https://gitlab.com/embarcacoes/estacao-metereologica-lorawan/-/issues).
 
 ## Licença:
 
