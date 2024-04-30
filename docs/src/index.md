@@ -1,7 +1,7 @@
 # Placa para Estação Metereológica Colubris (Colubris LoRa Meteorological Station Board)
 
 <center>
-![Placa Colubris Soldada](assets/placa_soldada_frente.jpg)
+![Placa Colubris Soldada](assets/placa_soldada_frente.jpg){width="300"}
 </center>
 
 A Colubris é uma placa de hardware aberto baseada no microcontrolador ESP32-S2 e equipada com um módulo LoRa SX1262 integrado. Além disso, ela possui um sistema de gerenciamento de bateria que permite carregar e utilizar baterias diretamente pela placa. A principal finalidade da Colubris é equipar estações meteorológicas que operarão em áreas remotas, mas ela é versátil o suficiente para ser usada em outros dispositivos que necessitem de comunicação de longo alcance.
