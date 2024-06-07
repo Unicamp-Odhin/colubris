@@ -5,7 +5,7 @@ site_author: Julio Nunes Avelar
 site_description: Estação meteorológica LoRaWAN, baseada no microcontrolador ESP32S2 e no módulo LoRa SX1262.
 repo_name: Estação Metereológica LoRaWAN - Colubris
 repo_url: https://gitlab.com/embarcacoes/estacao-metereologica-lorawan
-copyright: CC BY-SA 4.0
+copyright: CC BY-SA 4.0 - Julio Nunes Avelar
 nav:
   - Home: index.md
   - Como construir: build.md
